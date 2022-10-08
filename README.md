@@ -21,14 +21,8 @@
 **Make sure to have the server running**
 
 ```bash
-# From the project root folder access the 'web' folder
-$ cd web
-
 # Install the dependencies
-$ npm install
-
-# Make a copy of '.env.local.example' to '.env.local'
-$ cp .env.local.example .env.local
+$yarn
 
 # Start the application
 $ yarn dev
