@@ -6,10 +6,6 @@
   <a href="#-license">License</a>
 </p>
 
-<p align="center">
-  <img alt="Feedget Mockup" src=".github/mockup.png" width="100%">
-</p>
-
 ## 🚀 Technologies
 
 - [ReactJS](https://reactjs.org/)
