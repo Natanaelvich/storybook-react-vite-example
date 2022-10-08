@@ -11,11 +11,8 @@
 - [ReactJS](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.io/)
 - [Vitejs](https://vitejs.dev/)
-- [Express](https://expressjs.com/)
-- [Prisma](https://www.prisma.io/)
+- [Storybook](https://storybook.js.org/)
 
 ## 💻 Getting started
 
